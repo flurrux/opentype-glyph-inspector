@@ -3,7 +3,7 @@
 this is a small tool to help with understanding the contours of glyphs in opentype format. 
 
 it can be used here:  
-https://elastic-wescoff-c0840b.netlify.com/
+https://glyph-inspector.netlify.app/
 
 ![demo gif](https://media.giphy.com/media/TdKV9KfwPbW1KB8IL7/giphy.gif)
 
